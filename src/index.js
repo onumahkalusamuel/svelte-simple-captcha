@@ -1,3 +1,3 @@
-import Captcha from './src/Captcha.svelte'
+import Captcha from './Captcha.svelte'
 
 export { Captcha }
