@@ -1,0 +1,18 @@
+{
+    "name": "svelte-simple-captcha",
+    "version": "0.0.1",
+    "description": "A simple HTML5 Captcha for Svelte.",
+    "repository": "https://github.com/onumahkalusamuel/svelte-simple-captcha",
+    "author": "Onumah Kalu Samuel",
+    "license": "MIT",
+    "keywords": [
+        "svelte-simple-captcha",
+        "captcha",
+        "svelte captcha",
+        "svelte"
+    ],
+    "main": "src/index.js",
+    "dependencies": {
+      "svelte": "3.x"
+    }
+}
